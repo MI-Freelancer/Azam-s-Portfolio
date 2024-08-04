@@ -11,8 +11,8 @@
 
 #loader_container {
   position: relative;
-  width: 5vw;
-  height: 5vw;
+  width: 100px; /* 5vw */
+  height: 100px; /* 5vw */
   border-radius: 50%;
 }
 
