@@ -50,3 +50,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* mediaqueries start */
+@media only screen and (max-width: 500px) {
+  #loader_container {
+    width: 19vw; 
+    height: 19vw; 
+  }
+}
